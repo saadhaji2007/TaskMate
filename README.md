@@ -24,19 +24,17 @@ TaskMate is a sleek and simple desktop-based to-do list application built using 
 - **PyQt6**
 - **SQLite**
 
+
 ---
 
-## 📂 Folder Structure
+## 📂 Directory Structure
 
-\`\`\`
+```bash
 TaskMate/
-│
 ├── todo.py               # Main PyQt6 application
 ├── todo.db               # SQLite database (auto-created)
 ├── README.md             # Project documentation
-├── requirements.txt      # Python dependencies
-└── screenshots/          # UI screenshots
-\`\`\`
+```
 
 ---
 
