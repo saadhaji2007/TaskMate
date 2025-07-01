@@ -35,6 +35,7 @@ TaskMate/
 ├── todo.db               # SQLite database (auto-created)
 ├── README.md             # Project documentation
 ├── requirements.txt      # Python dependencies
+└── screenshots/          # UI screenshots
 \`\`\`
 
 ---
