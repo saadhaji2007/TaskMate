@@ -1,5 +1,5 @@
 # TaskMate
-cat > README.md <<EOF
+
 # 📝 TaskMate – A PyQt6 To-Do List Desktop App
 
 TaskMate is a sleek and simple desktop-based to-do list application built using **Python**, **PyQt6**, and **SQLite**. It helps you keep track of your daily tasks with ease, featuring live search, edit functionality, and persistent storage.
@@ -78,5 +78,5 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 🙌 Author
 
 **Saad Haji**  
-📧 [Email](hajisaad029@gmail.com)  
-EOF
+ -[Email](hajisaad029@gmail.com)  
+ -[linkdein](https://www.linkedin.com/in/saadhaji2007/)
